@@ -3,7 +3,7 @@
     <title>yo walsh!</title>
     <link href="https://www.yowalsh.com/feed.xml" rel="self" />
     <link href="https://www.yowalsh.com" />
-    <updated>2023-03-20T17:19:25-03:00</updated>
+    <updated>2023-03-21T07:57:49-03:00</updated>
     <author>
         <name>Mike</name>
     </author>
@@ -103,7 +103,7 @@
         </content>
     </entry>
     <entry>
-        <title>eLibro para un curso gastronómico universitario.</title>
+        <title>eLibro para un curso gastronómico universitario</title>
         <author>
             <name>Mike</name>
         </author>
@@ -112,7 +112,7 @@
         <media:content url="https://www.yowalsh.com/media/posts/37/elibro-ruta-newenche.png" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-03-20T17:16:59-03:00</updated>
+        <updated>2023-03-21T07:57:40-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.yowalsh.com/media/posts/37/elibro-ruta-newenche.png" alt="" />
@@ -179,7 +179,7 @@
         <media:content url="https://www.yowalsh.com/media/posts/38/elibro-huellas-sabores.png" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-03-20T17:16:28-03:00</updated>
+        <updated>2023-03-21T07:57:49-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.yowalsh.com/media/posts/38/elibro-huellas-sabores.png" alt="" />
@@ -196,7 +196,7 @@
 <li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Formatos disponible:</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> EPUB y MOBI.</span></li>
 <li><strong style="font-family: var(--editor-font-family); font-size: inherit;">Idioma:</strong><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);"> Español.</span></li>
 </ul>
-<p class="align-center"><a href="https://www.yowalsh.com/huellas-sabores-cordillera.epub" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Descargar Libro (EPUB)</a> <a href="https://www.yowalsh.com/huellas-sabores-cordillera.mobi" target="_blank" rel="noopener noreferrer">Descargar Libro (MOBI)</a></p>
+<p class="align-center"><a href="https://www.yowalsh.com/huellas-sabores-cordillera.epub" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Descargar Libro (EPUB)</a> <a href="https://www.yowalsh.com/huellas-sabores-cordillera.mobi" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Descargar Libro (MOBI)</a></p>
             ]]>
         </content>
     </entry>
