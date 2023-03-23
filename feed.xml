@@ -3,7 +3,7 @@
     <title>yo walsh!</title>
     <link href="https://www.yowalsh.com/feed.xml" rel="self" />
     <link href="https://www.yowalsh.com" />
-    <updated>2023-03-21T07:57:49-03:00</updated>
+    <updated>2023-03-23T09:56:40-03:00</updated>
     <author>
         <name>Mike</name>
     </author>
@@ -16,21 +16,21 @@
         </author>
         <link href="https://www.yowalsh.com/publii-cms-traduccion-espanol/"/>
         <id>https://www.yowalsh.com/publii-cms-traduccion-espanol/</id>
-        <media:content url="https://www.yowalsh.com/media/posts/41/publii-translation-a.png" medium="image" />
+        <media:content url="https://www.yowalsh.com/media/posts/41/publii-trans-1-2.png" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-03-14T16:29:26-03:00</updated>
+        <updated>2023-03-23T09:56:40-03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.yowalsh.com/media/posts/41/publii-translation-a.png" alt="" />
+                        <img src="https://www.yowalsh.com/media/posts/41/publii-trans-1-2.png" alt="" />
                     Recientemente he tenido múltiples proyectos basados en Publii CMS. Publii es un programa increíble que facilita la creación y administración de su sitio web. La comunidad de desarrolladores también ha proporcionado una serie de traducciones. Sin embargo, una de las limitaciones anteriores de Publii era&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://www.yowalsh.com/media/posts/41/publii-translation-a.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://www.yowalsh.com/media/posts/41/publii-trans-1-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Recientemente he tenido múltiples proyectos basados en <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii CMS</a>. Publii es un programa increíble que facilita la creación y administración de su sitio web. La comunidad de desarrolladores también ha proporcionado una serie de traducciones. Sin embargo, una de las limitaciones anteriores de Publii era la falta de una traducción completa al español. Entonces, me encargué de llenar el espacio en blanco.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/41/publii-translation-b.png" alt="" width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/41/responsive/publii-translation-b-xs.webp 320w ,https://www.yowalsh.com/media/posts/41/responsive/publii-translation-b-sm.webp 480w ,https://www.yowalsh.com/media/posts/41/responsive/publii-translation-b-md.webp 768w ,https://www.yowalsh.com/media/posts/41/responsive/publii-translation-b-lg.webp 1200w ,https://www.yowalsh.com/media/posts/41/responsive/publii-translation-b-xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/41/publii-trans-2.png" alt="" width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-md.webp 768w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-xl.webp 1600w"></figure>
 <p>Durante un mes, revisé y traduje más de 1,300 líneas de código al español, tanto para el programa principal como para el editor de texto (las traducciones de temas pueden venir en una fecha futura).</p>
 <p>Una vez que se terminó esto, envié la solicitud de fusión desde mi <a href="https://www.github.com/elmikewalsh" target="_blank" rel="noopener noreferrer">Github</a>, que fue aceptada justo al comienzo del nuevo año.</p>
 <p>Si está interesado, puede pinchar en el botón a continuación para descargar el paquete de idioma español más reciente para Publii CMS.</p>
