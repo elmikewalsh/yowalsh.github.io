@@ -3,7 +3,7 @@
     <title>yo walsh!</title>
     <link href="https://www.yowalsh.com/feed.xml" rel="self" />
     <link href="https://www.yowalsh.com" />
-    <updated>2023-03-27T16:01:58-03:00</updated>
+    <updated>2023-03-28T13:15:57-03:00</updated>
     <author>
         <name>Mike</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://www.yowalsh.com/media/posts/41/publii-trans-1-2.png" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-03-24T08:38:24-03:00</updated>
+        <updated>2023-03-28T13:13:21-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.yowalsh.com/media/posts/41/publii-trans-1-2.png" alt="" />
@@ -30,7 +30,7 @@
             <![CDATA[
                     <p><img src="https://www.yowalsh.com/media/posts/41/publii-trans-1-2.png" class="type:primaryImage" alt="" /></p>
                 <p>Recientemente he tenido múltiples proyectos basados en <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii CMS</a>. Publii es un programa increíble que facilita la creación y administración de su sitio web. La comunidad de desarrolladores también ha proporcionado una serie de traducciones. Sin embargo, una de las limitaciones anteriores de Publii era la falta de una traducción completa al español. Entonces, me encargué de llenar el espacio en blanco.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/41/publii-trans-2.png" alt="" width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-md.webp 768w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/41/publii-trans-2.png" alt="Dos pantallas de iMac con codificación y logotipo de Publii" width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-md.webp 768w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/41/responsive/publii-trans-2-xl.webp 1600w"></figure>
 <p>Durante un mes, revisé y traduje más de 1,300 líneas de código al español, tanto para el programa principal como para el editor de texto (las traducciones de temas pueden venir en una fecha futura).</p>
 <p>Una vez que se terminó esto, envié la solicitud de fusión desde mi <a href="https://www.github.com/elmikewalsh" target="_blank" rel="noopener noreferrer">Github</a>, que fue aceptada justo al comienzo del nuevo año.</p>
 <p>Si está interesado, puede pinchar en el botón a continuación para descargar el paquete de idioma español más reciente para Publii CMS.</p>
@@ -52,7 +52,7 @@
         <media:content url="https://www.yowalsh.com/media/posts/40/2023-go-2.png" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-03-24T09:12:00-03:00</updated>
+        <updated>2023-03-28T13:13:31-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.yowalsh.com/media/posts/40/2023-go-2.png" alt="" />
@@ -64,7 +64,7 @@
                     <p><img src="https://www.yowalsh.com/media/posts/40/2023-go-2.png" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://www.geraldineovalle.com" target="_blank" rel="noopener noreferrer">Geraldine Ovalle</a> solicitó un nuevo diseño para su sitio web en preparación del giro y enfoque en sus nuevos proyectos. El nuevo sitio web necesitaba ser limpio, moderno, minimalista y rápido. También era necesario la optimización para búsquedas en internet, para mayor visibilidad.</p>
 <p>Para este proyecto seleccioné como base del sitio la plantilla <a href="https://marketplace.getpublii.com/themes/splitian/" target="_blank" rel="noopener noreferrer">Splitian</a> del sistema de gestión de contenido (CMS) <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii</a>. Luego traje los elementos esenciales del sitio anterior al nuevo diseño. Conservamos el logo emblemático de las versiones anteriores.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/40/2023-go-1.png" alt="" width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/40/responsive/2023-go-1-xs.webp 320w ,https://www.yowalsh.com/media/posts/40/responsive/2023-go-1-sm.webp 480w ,https://www.yowalsh.com/media/posts/40/responsive/2023-go-1-md.webp 768w ,https://www.yowalsh.com/media/posts/40/responsive/2023-go-1-lg.webp 1200w ,https://www.yowalsh.com/media/posts/40/responsive/2023-go-1-xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/40/2023-go-1.png" alt="Diferentes vistas del sitio web mostradas en iPad, Macbook y iPhone." width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/40/responsive/2023-go-1-xs.webp 320w ,https://www.yowalsh.com/media/posts/40/responsive/2023-go-1-sm.webp 480w ,https://www.yowalsh.com/media/posts/40/responsive/2023-go-1-md.webp 768w ,https://www.yowalsh.com/media/posts/40/responsive/2023-go-1-lg.webp 1200w ,https://www.yowalsh.com/media/posts/40/responsive/2023-go-1-xl.webp 1600w"></figure>
 <p>Además del CV, clases y talleres presentes en la versión anterior del sitio web, agregamos una sección para sus publicaciones, las cuales incluyen <a href="https://www.yowalsh.com/sitio-web-para-un-proyecto-fondart/">el sitio web Huellas y Sabores</a>, <a href="https://www.yowalsh.com/libro-para-un-proyecto-patrimonio-fondart/">el libro para el proyecto Fondart</a> y el <a href="https://www.yowalsh.com/elibro-para-proyecto-fondart-en-chile/">eLibro: Huellas y Sabores</a>.</p>
 <h4>Detalles técnicos</h4>
 <ul>
@@ -84,7 +84,7 @@
         <media:content url="https://www.yowalsh.com/media/posts/39/2023-es-elmikewalsh.png" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-03-24T17:35:53-03:00</updated>
+        <updated>2023-03-28T13:14:14-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.yowalsh.com/media/posts/39/2023-es-elmikewalsh.png" alt="" />
@@ -96,7 +96,7 @@
                     <p><img src="https://www.yowalsh.com/media/posts/39/2023-es-elmikewalsh.png" class="type:primaryImage" alt="" /></p>
                 <p>Para 2023 decidí darle una vuelta al diseño de mi sitio web personal. Fue mi primero proyecto usando el sistema de gestión de contenido (CMS) <a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii</a>.  Partí con la plantilla <a href="https://marketplace.getpublii.com/themes/square/" target="_blank" rel="noopener noreferrer">Square</a> rellenando el contenido básico (imágenes, texto, etc).</p>
 <p>Eligí una paleta de colores (o mejor dicho ausencia de colores) blanco y negro. Para destacar los enlaces, apliqué un subrayo amarillo, similar a un destacador. La inspiración para esto vino del blog de <a href="https://manuelmoreale.com/" target="_blank" rel="noopener noreferrer">Manuel Moreale</a>.</p>
-<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/39/2023-es-elmikewalsh-2.png" alt="" width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-md.webp 768w ,https://www.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/39/2023-es-elmikewalsh-2.png" alt="Vistas del sitio web en computadoras de escritorio, teléfonos y tabletas." width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-md.webp 768w ,https://www.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/39/responsive/2023-es-elmikewalsh-2-xl.webp 1600w"></figure>
 <p>Para un toque singular, en aparatos móviles, la navegación del sitio aparece en la parte inferior del sitio, similar a las aplicaciones. Tiene como fin llamar a la atención, además de hacer que el sitio es mucho más fácil de navegar, ya que toda la navegación queda cerca del dedo pulgar del visitante, permitiendo un alcance más fácil, particularmente en teléfonos.</p>
 <p class="align-center"><a href="https://www.elmikewalsh.com" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Visitar el sitio</a></p>
             ]]>
@@ -143,7 +143,7 @@
         <media:content url="https://www.yowalsh.com/media/posts/10/macca-a-2.webp" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-03-27T16:00:25-03:00</updated>
+        <updated>2023-03-28T13:14:59-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.yowalsh.com/media/posts/10/macca-a-2.webp" alt="" />
@@ -156,10 +156,10 @@
                 <h3>Etiquetas para una línea de salsas caseras.</h3>
 <p>Salsa Macca es un producto estrenado cerca del fin de 2015 por Macca Producciones, una compañía familiar de una pareja australiana-chilena que opera entre Villarrica y Pucón en el centro-sur de Chile. Para el lanzamiento de su línea de productos, necesitaba tres etiquetas atractivas para una línea de salsas. Las etiquetas tuvieron que ser bastante minimalista, atractivas y fácil de entender. Cada etiqueta tiene una representación gráfica del sabor de la salsa, además de la información nutricional e descripción del producto.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
-<figure class="gallery__item"><a href="https://www.yowalsh.com/media/posts/10/gallery/macca-b.webp" data-size="972x648"><img loading="lazy" src="https://www.yowalsh.com/media/posts/10/gallery/macca-b-thumbnail.webp" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://www.yowalsh.com/media/posts/10/gallery/macca-d.webp" data-size="972x648"><img loading="lazy" src="https://www.yowalsh.com/media/posts/10/gallery/macca-d-thumbnail.webp" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://www.yowalsh.com/media/posts/10/gallery/macca-e.webp" data-size="972x648"><img loading="lazy" src="https://www.yowalsh.com/media/posts/10/gallery/macca-e-thumbnail.webp" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://www.yowalsh.com/media/posts/10/gallery/macca-f.webp" data-size="972x648"><img loading="lazy" src="https://www.yowalsh.com/media/posts/10/gallery/macca-f-thumbnail.webp" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.yowalsh.com/media/posts/10/gallery/macca-b.webp" data-size="972x648"><img loading="lazy" src="https://www.yowalsh.com/media/posts/10/gallery/macca-b-thumbnail.webp" alt="Vista frontal de la etiqueta del tarro de salsa." width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.yowalsh.com/media/posts/10/gallery/macca-d.webp" data-size="972x648"><img loading="lazy" src="https://www.yowalsh.com/media/posts/10/gallery/macca-d-thumbnail.webp" alt="Vista trasera de la etiqueta del tarro de salsa." width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.yowalsh.com/media/posts/10/gallery/macca-e.webp" data-size="972x648"><img loading="lazy" src="https://www.yowalsh.com/media/posts/10/gallery/macca-e-thumbnail.webp" alt="Vista alternativa de diferentes sabores de salsa." width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.yowalsh.com/media/posts/10/gallery/macca-f.webp" data-size="972x648"><img loading="lazy" src="https://www.yowalsh.com/media/posts/10/gallery/macca-f-thumbnail.webp" alt="Imagen de tarjetas de presentación con logo e información de la empresa." width="768" height="512"></a></figure>
 </div></div>
 <p>Como producto secundario se diseñó una tarjeta de presentación sencilla que compartió elementos de diseño con las etiquetas, y un bumerán diluido en el fondo.</p>
 <h4>Detalles técnicos</h4>
@@ -179,7 +179,7 @@
         <media:content url="https://www.yowalsh.com/media/posts/38/elibro-huellas-sabores.png" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-03-24T18:57:28-03:00</updated>
+        <updated>2023-03-28T13:05:59-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.yowalsh.com/media/posts/38/elibro-huellas-sabores.png" alt="" />
@@ -210,7 +210,7 @@
         <media:content url="https://www.yowalsh.com/media/posts/9/hs-cordillera-a-2.webp" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-03-27T16:01:28-03:00</updated>
+        <updated>2023-03-28T13:15:44-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.yowalsh.com/media/posts/9/hs-cordillera-a-2.webp" alt="" />
@@ -223,11 +223,11 @@
                 <h3>Diseño imprenta y digital para el libro Huellas y Sabores de Mujeres en la Cordillera.</h3>
 <p>Me contrataron <a href="http://www.geraldineovalle.com/" target="_blank" rel="noopener noreferrer"><strong>Geraldine Ovalle</strong></a> y Natalia Barría, dos ganadoras del fondo regional de las artes (Fondart) en 2014, para hacer el diseño de su libro, Huellas y Sabores de Mujeres en la Cordillera. La idea era que este sea el primer volumen de tres, y que cada libro está unido a los otros por algunos detalles de diseño comunes. Cada volumen tratará de un sector distinto de la Región de la Araucanía: la cordillera, el valle y la mar. Necesitaba un diseño moderno y atractivo.</p>
 <p>En vez de un índice de contenidos más tradicional, opté por un estilo más minimalista, ubicando los capítulos en letras grandes, con los nombres de las secciones – si había – debajo de cada capítulo. La ilustración del árbol es de una araucaria – árbol altamente simbólico de la región. Eso ayudó en destacar el libro y llamar la atención al lector interesado, ya que muchas publicaciones de otros proyectos eran objetivos o productos secundarios, siendo la investigación de primer interés.</p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/9/hs-cordillera-b-2.webp" alt="" width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-md.webp 768w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-xl.webp 1600w"></figure>
-<figure class="post__image align-center"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/9/hs-cordillera-c-2.webp" alt="" width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-md.webp 768w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/9/hs-cordillera-b-2.webp" alt="Abra la vista de libro de la tabla de contenido." width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-md.webp 768w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-b-2-xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/9/hs-cordillera-c-2.webp" alt="Libro abierto que muestra dos páginas de perfiles de chef." width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-md.webp 768w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-c-2-xl.webp 1600w"></figure>
 <p>Aunque el libro principalmente consiste en una investigación, hay también varias páginas de fotos. La sección de la biografía tiene una foto de cada participante con una reseña que anota como llegaron a ser parte del mundo gastronómico, y los nombres de los negocios y/o productos correspondientes. También, cada participante tiene una página de fotos que destaca el negocio y producto de ello.</p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/9/hs-cordillera-d-2.webp" alt="" width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-md.webp 768w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-xl.webp 1600w"></figure>
-<h4><figure class="post__image align-center"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/9/hs-cordillera-e-3.webp" alt="" width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-xs.webp 320w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-sm.webp 480w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-md.webp 768w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-lg.webp 1200w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-xl.webp 1600w"></figure>Detalles técnicos</h4>
+<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/9/hs-cordillera-d-2.webp" alt="Libro abierto que muestra dos páginas de fotos con fondo negro." width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-md.webp 768w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-d-2-xl.webp 1600w"></figure>
+<h4><figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/9/hs-cordillera-e-3.webp" alt="Libro abierto que muestra el título del capítulo y la imagen a la izquierda y el texto a la derecha." width="1200" height="675" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-xs.webp 320w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-sm.webp 480w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-md.webp 768w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-lg.webp 1200w ,https://www.yowalsh.com/media/posts/9/responsive/hs-cordillera-e-3-xl.webp 1600w"></figure>Detalles técnicos</h4>
 <ul>
 <li>Las medidas del libro imprenta son: 200mm x 200mm.</li>
 <li>Se diseñó con Adobe InDesign y Photoshop.</li>
@@ -251,7 +251,7 @@
         <media:content url="https://www.yowalsh.com/media/posts/8/huellas-sabores-thumb-full.webp" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-03-27T16:01:58-03:00</updated>
+        <updated>2023-03-28T13:15:57-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.yowalsh.com/media/posts/8/huellas-sabores-thumb-full.webp" alt="" />
@@ -265,7 +265,7 @@
 <p>Geraldine Ovalle y Natalia Barría, dos ganadoras del fondo regional de las artes (Fondart) en 2014, publicaron un libro llamado Huellas y Sabores de Mujeres en la Cordillera. Para acompañar el lanzamiento del libro y promover su difusión se diseñó un sitio web para presentar más información acerca del proyecto.</p>
 <p>El sitio de Huellas y Sabores sirve como un tipo de portal para el proyecto en general, donde uno puede aprender más sobre el propósito de la investigación, ver las biografías de las personas que participaron en el proyecto, una breve presentación de las autoras, una sección de noticias, y más.</p>
 <p>El resultado ayudó a difundir información acerca del proyecto, lo cual culminó en una presentación en el Centro Cultural Liquén y la creación de una página en Facebook, la cual atrajo una audiencia significante.</p>
-<figure class="post__image align-center"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/8/huellas-info-img-2.webp" alt="" width="1200" height="800" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/8/responsive/huellas-info-img-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/8/responsive/huellas-info-img-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/8/responsive/huellas-info-img-2-md.webp 768w ,https://www.yowalsh.com/media/posts/8/responsive/huellas-info-img-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/8/responsive/huellas-info-img-2-xl.webp 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://www.yowalsh.com/media/posts/8/huellas-info-img-2.webp" alt="Diferentes vistas de sitios web en iPads, Macbook y iPhone dorados y negros." width="1200" height="800" sizes="(min-width: 1720px) 1471px, (min-width: 900px) calc(83.5vw + 88px), (min-width: 860px) calc(10vw + 661px), calc(86.3vw + 21px)" srcset="https://www.yowalsh.com/media/posts/8/responsive/huellas-info-img-2-xs.webp 320w ,https://www.yowalsh.com/media/posts/8/responsive/huellas-info-img-2-sm.webp 480w ,https://www.yowalsh.com/media/posts/8/responsive/huellas-info-img-2-md.webp 768w ,https://www.yowalsh.com/media/posts/8/responsive/huellas-info-img-2-lg.webp 1200w ,https://www.yowalsh.com/media/posts/8/responsive/huellas-info-img-2-xl.webp 1600w"></figure>
 <h4>Detalles técnicos</h4>
 <ul>
 <li>La fuente de letras utilizado en el sitio, tal como el libro imprenta, es <a href="https://www.google.com/fonts/specimen/PT+Sans" target="_blank" rel="noopener">PT Sans</a>.</li>
