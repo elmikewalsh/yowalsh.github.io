@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://en.yowalsh.com/sitemap.xml
