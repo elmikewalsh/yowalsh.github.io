@@ -3,7 +3,7 @@
     <title>yo walsh!</title>
     <link href="https://www.yowalsh.com/feed.xml" rel="self" />
     <link href="https://www.yowalsh.com" />
-    <updated>2023-11-21T10:12:34-04:00</updated>
+    <updated>2023-11-23T10:57:01-04:00</updated>
     <author>
         <name>Mike</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://www.yowalsh.com/media/posts/41/publii-trans-1-2.png" medium="image" />
             <category term="Proyectos encantadores"/>
 
-        <updated>2023-11-21T10:12:34-04:00</updated>
+        <updated>2023-11-23T10:57:01-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.yowalsh.com/media/posts/41/publii-trans-1-2.png" alt="Imagen de iMac con el logo de Publii en pantalla." />
@@ -38,7 +38,7 @@
 <ul>
 <li>La traducción del código se llevó a cabo usando <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer">Sublime Text</a>.</li>
 </ul>
-<p class="align-center"><a href="https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.44.0/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Paquete idioma Publii 0.44.0 Español</a></p>
+<p class="align-center"><a href="https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.44.1/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Paquete idioma Publii 0.44.1 Español</a></p>
             ]]>
         </content>
     </entry>
