@@ -3,7 +3,7 @@
     <title>2024-ES-PORTFOLIO-elmikewalsh</title>
     <link href="https://obras.elmike.cl/feed.xml" rel="self" />
     <link href="https://obras.elmike.cl" />
-    <updated>2023-11-24T16:57:08-04:00</updated>
+    <updated>2024-01-30T07:13:15-04:00</updated>
     <author>
         <name>Mike</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://obras.elmike.cl/media/posts/41/publii-trans-1.webp" medium="image" />
             <category term="proyectos encantadores"/>
 
-        <updated>2023-11-24T13:34:30-04:00</updated>
+        <updated>2024-01-30T07:13:15-04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -33,7 +33,7 @@
 <ul>
 <li>La traducción del código se llevó a cabo usando <a href="https://www.sublimetext.com/" target="_blank" rel="noopener noreferrer">Sublime Text</a>.</li>
 </ul>
-<p class="align-center"><a href="https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.44.1/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Paquete idioma Publii 0.44.1 Español</a></p>
+<p class="align-center"><a href="https://github.com/GetPublii/Publii-ui-locales/blob/main/downloads/0.44.1/es-cl.zip" target="_blank" rel="noopener noreferrer" class="btn btn--outline">Paquete idioma Publii 0.44.4 Español</a></p>
             ]]>
         </content>
     </entry>
