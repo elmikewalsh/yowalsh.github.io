@@ -4,4 +4,4 @@ User-agent: GPTBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://obras.elmike.cl/sitemap.xml
+Sitemap: https://folio.elmike.cl/sitemap.xml
