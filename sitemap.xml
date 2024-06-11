@@ -1,117 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://folio.elmike.cl/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://dev.elmikewalsh.cl/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://folio.elmike.cl/</loc>
+<loc>https://dev.elmikewalsh.cl/</loc>
 </url>
 <url>
-<loc>https://folio.elmike.cl/elibro-curso-gastronomico/</loc>
+<loc>https://dev.elmikewalsh.cl/elibro-curso-gastronomico/</loc>
 <lastmod>2023-11-24T17:29:07-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/37/ruta-newenche.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/37/ruta-newenche.webp</image:loc>
 <image:title><![CDATA[Portada del libro electrónico Libro Newenche en formato impreso y para teléfono.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.cl/elibro-proyecto-fondart-en-chile/</loc>
+<loc>https://dev.elmikewalsh.cl/elibro-proyecto-fondart-en-chile/</loc>
 <lastmod>2023-11-24T17:12:59-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/38/huellas-sabores.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/38/huellas-sabores.webp</image:loc>
 <image:title><![CDATA[La portada del libro electrónico Huellas y Sabores en formato impreso y para teléfono.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.cl/etiqueta/proyectos/</loc>
+<loc>https://dev.elmikewalsh.cl/etiqueta/proyectos/</loc>
 </url>
 <url>
-<loc>https://folio.elmike.cl/etiquetas-linea-de-salsas/</loc>
+<loc>https://dev.elmikewalsh.cl/etiquetas-linea-de-salsas/</loc>
 <lastmod>2023-11-24T17:57:08-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/10/macca-a.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/10/macca-a.webp</image:loc>
 <image:title><![CDATA[Vista frontal del tarro de salsa con etiqueta.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/10/macca-b.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/10/macca-b.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/10/macca-e.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/10/macca-e.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.cl/info/</loc>
+<loc>https://dev.elmikewalsh.cl/info/</loc>
 <lastmod>2023-11-20T09:01:48-03:00</lastmod>
 </url>
 <url>
-<loc>https://folio.elmike.cl/libro-proyecto-patrimonio-fondart/</loc>
+<loc>https://dev.elmikewalsh.cl/libro-proyecto-patrimonio-fondart/</loc>
 <lastmod>2023-11-24T17:42:43-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/9/hs-cordillera-a.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/9/hs-cordillera-a.webp</image:loc>
 <image:title><![CDATA[Portada del libro impreso en formato cuadrado.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/9/hs-cordillera-b-2.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/9/hs-cordillera-b-2.webp</image:loc>
 <image:title><![CDATA[Abra la vista de libro de la tabla de contenido.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/9/hs-cordillera-c-2.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/9/hs-cordillera-c-2.webp</image:loc>
 <image:title><![CDATA[Libro abierto que muestra dos páginas de perfiles de chef.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/9/hs-cordillera-d-2.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/9/hs-cordillera-d-2.webp</image:loc>
 <image:title><![CDATA[Libro abierto que muestra dos páginas de fotos con fondo negro.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/9/hs-cordillera-e-3.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/9/hs-cordillera-e-3.webp</image:loc>
 <image:title><![CDATA[Libro abierto que muestra el título del capítulo y la imagen a la izquierda y el texto a la derecha.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.cl/publii-cms-traduccion-espanol/</loc>
+<loc>https://dev.elmikewalsh.cl/publii-cms-traduccion-espanol/</loc>
 <lastmod>2024-01-30T08:13:15-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/41/publii-trans-1.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/41/publii-trans-1.webp</image:loc>
 <image:title><![CDATA[Imagen de iMac con el logo de Publii en pantalla.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/41/publii-trans-2.png</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/41/publii-trans-2.png</image:loc>
 <image:title><![CDATA[Dos pantallas de iMac con codificación y logotipo de Publii]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.cl/sitio-minimalista-para-profesora/</loc>
+<loc>https://dev.elmikewalsh.cl/sitio-minimalista-para-profesora/</loc>
 <lastmod>2023-11-24T14:37:27-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/40/2023-go-1.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/40/2023-go-1.webp</image:loc>
 <image:title><![CDATA[Varias vistas del sitio web en notebook, dispositivos móviles y tabletas.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/40/2023-go-2.png</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/40/2023-go-2.png</image:loc>
 <image:title><![CDATA[Diferentes vistas del sitio web mostradas en iPad, Macbook y iPhone.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.cl/sitio-personal-minimalista-y-rapido/</loc>
+<loc>https://dev.elmikewalsh.cl/sitio-personal-minimalista-y-rapido/</loc>
 <lastmod>2023-11-24T15:05:32-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/39/sites-general-img-xl.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/39/sites-general-img-xl.webp</image:loc>
 <image:title><![CDATA[Diferentes vistas del sitio web mostradas en iPad, Macbook y iPhone.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/39/2023-es-elmikewalsh-2.png</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/39/2023-es-elmikewalsh-2.png</image:loc>
 <image:title><![CDATA[Vistas del sitio web en computadoras de escritorio, teléfonos y tabletas.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://folio.elmike.cl/sitio-web-proyecto-fondart/</loc>
+<loc>https://dev.elmikewalsh.cl/sitio-web-proyecto-fondart/</loc>
 <lastmod>2023-11-24T17:43:43-03:00</lastmod>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/8/2023-en-huellas-sitioweb.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/8/2023-en-huellas-sitioweb.webp</image:loc>
 <image:title><![CDATA[Varias vistas del sitio web en notebook, dispositivos móviles y tabletas.]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://folio.elmike.cl/media/posts/8/huellas-sabores-thumb-full.webp</image:loc>
+<image:loc>https://dev.elmikewalsh.cl/media/posts/8/huellas-sabores-thumb-full.webp</image:loc>
 <image:title><![CDATA[Diferentes vistas de sitios web en iPads, Macbook y iPhone dorados y negros.]]></image:title>
 </image:image>
 </url>
